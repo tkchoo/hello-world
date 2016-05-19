@@ -1,4 +1,3 @@
-# hello-world
-Test drive.
+# Web Development Technique
 
-It's free why not have a try?
+Place some note or small part of technique/skill that usually use in web developement.
